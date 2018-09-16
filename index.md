@@ -1,37 +1,51 @@
-## Welcome to GitHub Pages
+# Kvantitatiiviset tutkimusmenetelmät II/syksy 2018
 
-You can use the [editor on GitHub](https://github.com/kvantti2/kvantti2.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Tee kaikki harjoitustehtävät ja palauta ne yhtenäisenä dokumenttina.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Arvostelu
 
-### Markdown
+0. (hylätty) harjoitustehtäviä ei joko ole tehty, tai ne on tehty radikaalisti väärin ja/tai tulkittu erityisen väärin.
+1. Kaikki harjoitustehtävät yritetty tehdä suurin piirtein oikein. Tulkinta vajavaista mutta oikean suuntaista, raportoinnissa (t.s. tulosten ja menetelmällisten valintojen aukikirjoittaminen) puutteita.
+2. Kaikki harjoitustehtävät on tehty oikein. Tulkinta vajavaista mutta oikean suuntaista, raportoinnissa joitain puutteita.
+3. Kaikki harjoitustehtävät on tehty oikein. Tulkinta oikean suuntaista ja raportoitu riittävästi, kirjallisuuteen viitataan.
+4. Kaikki harjoitustehtävät on tehty oikein JA raportoitu siististi (esim. taulukot ei kopioitu suoraan SPSS-tulosteesta, vain keskeiset tunnusluvut, raportin asettelu helppolukuinen). Menetelmälliset valinnat on perusteltu asianmukaisesti suhteessa tutkimuskirjallisuuteen ja aineiston erityispiirteisiin. Tulkinta hyvin perusteltua ja kriittistä sekä hyvin raamitettu suhteessa kirjallisuuteen.
+5. Kaikki harjoitustehtävät on tehty erinomaisesti JA raportoitu erityisen siististi (esim. APA:n ohjeiden mukaisesti). Menetelmälliset valinnat on perusteltu asianmukaisesti suhteessa tutkimuskirjallisuuteen ja aineiston erityispiirteisiin. Tulkinta erinomaista ja raamitettu laajasti suhteessa kirjallisuuteen.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Tehtävät
 
-```markdown
-Syntax highlighted code block
+### Korrelaatio
 
-# Header 1
-## Header 2
-### Header 3
+1. Pelaa guessthecorrelation.com kunnes kasassa on vähintään 30 pistettä. 
+2. Piirrä seuraavat scatter-plotit:  
+  - X = oppimisorientaatio, Y = keskiarvo
+  - X = menestysorientaatio, Y = keskiarvo
+  - X = suoritus-lähestymisorientaatio, Y = keskiarvo
+  - X = suoritus-välttämisorientaatio, Y = keskiarvo
+  - X = välttämisorientaatio, Y = keskiarvo
+  Tulkitse eri tavoiteorientaatioiden yhteyttä kouluaineiden keskiarvoon kuvien perusteella.
+3. Laske korrelaatiomatriisi sisältäen tavoiteorientaatiot ja kouluaineiden keskiarvon. Vertaile scatter-plotien ja Pearson korrelaatiokertoimien tarjoamaa informaatiota. Laske myös Spearman, eroavatko tulokset? Raportoi tulokset ja tulkinta.
+4. Ota kantaa seuraaviin väitteisiin. Perustele kantasi. 
+  - Jos testin A ja testin B välillä vallitsee korkea positiivinen korrelaatio, voidaan olettaa, että joko A on B:n syy tai B A:n syy
+  - Korkea positiivinen korrelaatio antaa yhtä paljon informaatiota testattavien ilmiöiden välisestä yhteydestä kuin korkea negatiivinen korrelaatio.
+  - Jos A:n ja B:n välinen korrelaatio on likimain nolla, ei A:n ja B:n välillä vallitse juuri minkäänlaista yhteyttä
+5. Tutkija selvitti korrelatiivisesti oppilaan sosiaalisen taustan ja koulumenestyksen välistä yhteyttä. Tulokset olivat: tytöt (N=67) r=.36 ja pojat (N=132) r=.12. Kertoimista tutkija päätteli mm., että tytöt menestyivät koulussa paremmin kuin pojat. Miten itse tulkitsisit?
 
-- Bulleted
-- List
+### Eksploratiivinen faktorianalyysi
 
-1. Numbered
-2. List
+1. Tee eksploratiivinen faktorianalyysi erikseen kouluinto- (EDA, Salmela-Aro & Upadyaya, 2012) ja koulu-uupumus-mittareille (SBI, Salmela-Aro, Kiuru, Leskinen & Nurmi, 2009). 
+  - Arvioi mikä faktorimalli sopii parhaiten aineistoon ja miten se on suhteessa validointiartikkeleissa esitettyihin malleihin. Raportoi ja perustele valintasi faktorianalyysin suhteen (Costello & Osborne, 2005).
+  - Miten vastaavien konfirmatoristen faktorianalyysimallien rakentaminen (ja lopputulos) eroaisivat näistä (ks. Salmela aro et al., 2009; 2012)? 
 
-**Bold** and _Italic_ and `Code` text
+2. Tee valitsemasi faktorimallin mukaisesti keskiarvosummamuuttujat kuvaamaan faktoreita (käytä mean –funktiota). 
+  - Tarkastele summamuuttujiesi jakaumia. 
+  - Laske valitsemiesi faktorimallien mukaisten keskiarvosummamuuttujien reliabiliteettikertoimet (Cronbach’s Alpha) ja pohdi tulosta suhteessa alkuperäisiin osioihin/väittämiin ja faktoriratkaisuun.
 
-[Link](url) and ![Image](src)
-```
+### Varianssianalyysi
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+1. Artikkelissa “Tavoiteorientaatiot, koulutustavoitteet ja koulumenestys kuudennella luokalla” on esitelty neljä tavoiteorientaatioprofiilia. Profiilijäsenyydet kertova luokittelumuuttuja löytyy harjoitusaineistosta, samoin kuin profiilien estimoimiseen käytetyt tavoiteorientaatio-muuttujat. Taulukossa 2 on esitelty tavoiteorientaatioprofiilien keskiarvoerot tavoiteorientaatiomuuttujien suhteen (varianssianalyysi). Toista vastaava varianssianalyysi, tarkista, että saat yhtenevät tulokset. Raportoi tulokset. 
+2. Vertaile tavoiteorientaatioprofiileja suhteessa tekemiisi kouluinnon ja koulu-uupumuksen keskiarvosummamuuttujiin. Tulkitse tulokset suhteessa aiempaan tutkimukseen (ks. lähteet). 
+  * Tee sekä varianssianalyysi, että Kruskall-Wallisin u-testi. Vertaile tuloksia. Raportoi tulokset ja tulkinta.
 
-### Jekyll Themes
+### Regressioanalyysi 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kvantti2/kvantti2.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Artikkelissa “Tavoiteorientaatiot, koulutustavoitteet ja koulumenestys kuudennella luokalla” (Varonen ym., 2018) on käytetty henkilösuuntautunutta tutkimustapaa ja vertailtu eri tavoiteorientaatioryhmiä koulutustavoitteiden arvioinnin ja koulumenestyksen suhteen. Valitaan nyt muuttujakeskeinen tutkimustapa samaan ilmiöön. Tutki lineaarisella regressioanalyysillä miten tavoiteorientaatiot ovat yhteydessä koulumenestykseen. Eroaako tulosten tulkinta eri lähestymistapojen välillä? Raportoi tulokset ja tulkinta.
