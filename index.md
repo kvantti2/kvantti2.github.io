@@ -1,6 +1,8 @@
 # Kvantitatiiviset tutkimusmenetelmät II/syksy 2018
 
-Tee kaikki harjoitustehtävät ja palauta ne yhtenäisenä dokumenttina.
+Tee kaikki harjoitustehtävät ja palauta ne yhtenäisenä dokumenttina. Tehtävät perustuvat seuraavaan oppimisdataan ja tästä kirjoitettuihin julkaisuihin:
+
+* [harjoitusdata](https://github.com/kvantti2/kvantti2.github.io.git/data/harjoitusdata-korj.sav)
 
 ## Arvostelu
 
