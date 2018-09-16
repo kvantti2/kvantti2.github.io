@@ -6,7 +6,7 @@ Tee kaikki harjoitustehtävät ja palauta ne yhtenäisenä dokumenttina. Tehtäv
 
 ## Arvostelu
 
-0. (hylätty) harjoitustehtäviä ei joko ole tehty, tai ne on tehty radikaalisti väärin ja/tai tulkittu erityisen väärin.
+- *hylätty* harjoitustehtäviä ei joko ole tehty, tai ne on tehty radikaalisti väärin ja/tai tulkittu erityisen väärin.
 1. Kaikki harjoitustehtävät yritetty tehdä suurin piirtein oikein. Tulkinta vajavaista mutta oikean suuntaista, raportoinnissa (t.s. tulosten ja menetelmällisten valintojen aukikirjoittaminen) puutteita.
 2. Kaikki harjoitustehtävät on tehty oikein. Tulkinta vajavaista mutta oikean suuntaista, raportoinnissa joitain puutteita.
 3. Kaikki harjoitustehtävät on tehty oikein. Tulkinta oikean suuntaista ja raportoitu riittävästi, kirjallisuuteen viitataan.
