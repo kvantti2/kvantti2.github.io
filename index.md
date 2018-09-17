@@ -1,6 +1,6 @@
-# Kvantitatiiviset tutkimusmenetelmät II/syksy 2018
+# Harjoitukset
 
-Tee kaikki harjoitustehtävät ja palauta ne yhtenäisenä dokumenttina. Tehtävät perustuvat seuraavaan oppimisdataan ja tästä kirjoitettuihin julkaisuihin:
+Tee kaikki harjoitustehtävät ja palauta ne yhtenäisenä dokumenttina oman ryhmäsi Moodleen. Tehtävät perustuvat seuraavaan oppimisdataan ja tästä kirjoitettuihin julkaisuihin:
 
 * [harjoitusdata](https://github.com/kvantti2/kvantti2.github.io/raw/master/data/harjoitusdata-korj.sav)
 * Costello, A. B., & Osborne, J. W. (2005). Best practices in exploratory factor analysis: Four recommendations for getting the most from your analysis. Practical assessment, research & evaluation, 10(7), 1-9. ([pdf](https://www.pareonline.net/pdf/v10n7.pdf))
