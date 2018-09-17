@@ -21,7 +21,7 @@ Tee kaikki harjoitustehtävät ja palauta ne yhtenäisenä dokumenttina. Tehtäv
 
 ### Korrelaatio
 
-1. Pelaa guessthecorrelation.com kunnes kasassa on vähintään 30 pistettä. 
+1. Pelaa ([guessthecorrelation.com](https://guessthecorrelation.com)) kunnes kasassa on vähintään 30 pistettä. 
 2. Piirrä seuraavat scatter-plotit:  
   - X = oppimisorientaatio, Y = keskiarvo
   - X = menestysorientaatio, Y = keskiarvo
@@ -42,8 +42,9 @@ Tee kaikki harjoitustehtävät ja palauta ne yhtenäisenä dokumenttina. Tehtäv
   - Arvioi mikä faktorimalli sopii parhaiten aineistoon ja miten se on suhteessa validointiartikkeleissa esitettyihin malleihin. Raportoi ja perustele valintasi faktorianalyysin suhteen (Costello & Osborne, 2005).
   - Miten vastaavien konfirmatoristen faktorianalyysimallien rakentaminen (ja lopputulos) eroaisivat näistä (ks. Salmela aro et al., 2009; 2012)? 
 
-2. Tee valitsemasi faktorimallin mukaisesti keskiarvosummamuuttujat kuvaamaan faktoreita (käytä mean –funktiota). 
-  - Tarkastele summamuuttujiesi jakaumia. 
+2. Tee valitsemasi faktorimallin mukaisesti keskiarvosummamuuttujat kuvaamaan faktoreita 
+  - Tarkastele summamuuttujiesi jakaumia. Summamuuttujien lisäämisessä voit käyttää SPSS:n mean -funktiota.
+  ![spss mean -funktio]({{ site.url }}/assets/spss-mean.png)
   - Laske valitsemiesi faktorimallien mukaisten keskiarvosummamuuttujien reliabiliteettikertoimet (Cronbach’s Alpha) ja pohdi tulosta suhteessa alkuperäisiin osioihin/väittämiin ja faktoriratkaisuun.
 
 ### Varianssianalyysi
