@@ -3,6 +3,10 @@
 Tee kaikki harjoitustehtävät ja palauta ne yhtenäisenä dokumenttina. Tehtävät perustuvat seuraavaan oppimisdataan ja tästä kirjoitettuihin julkaisuihin:
 
 * [harjoitusdata](https://github.com/kvantti2/kvantti2.github.io/raw/master/data/harjoitusdata-korj.sav)
+* Costello, A. B., & Osborne, J. W. (2005). Best practices in exploratory factor analysis: Four recommendations for getting the most from your analysis. Practical assessment, research & evaluation, 10(7), 1-9. ([pdf](https://www.pareonline.net/pdf/v10n7.pdf))
+* Salmela-Aro, K., Kiuru, N., Leskinen, E., & Nurmi, J. E. (2009). School burnout inventory (SBI) reliability and validity. European journal of psychological assessment, 25(1), 48-57. ([pdf](https://www.researchgate.net/publication/232593343_School_Burnout_Inventory_SBI_Reliability_and_Validity))
+* Salmela-Aro, K., & Upadaya, K. (2012). The schoolwork engagement inventory. European Journal of Psychological Assessment. ([pdf](https://github.com/kvantti2/kvantti2.github.io/raw/master/data/Salmela-Aro_Upadyaya_2012_EDA.pdf))
+* Anna Varonen, Heta Tuominen, Lauri Hietajärvi, Katariina Salmela-Aro, Kai Hakkarainen & Kirsti Lonka (2018). Tavoiteorientaatiot, koulutustavoitteet ja koulumenestys kuudennella luokalla. Psykologia 53 (02-03) ([pdf](https://github.com/kvantti2/kvantti2.github.io/raw/master/data/Varonen_ym_Psykologia_2-3_2018.pdf))
 
 ## Arvostelu
 
