@@ -56,3 +56,5 @@ Tee kaikki harjoitustehtävät ja palauta ne yhtenäisenä dokumenttina oman ryh
 ### Regressioanalyysi 
 
 Artikkelissa “Tavoiteorientaatiot, koulutustavoitteet ja koulumenestys kuudennella luokalla” (Varonen ym., 2018) on käytetty henkilösuuntautunutta tutkimustapaa ja vertailtu eri tavoiteorientaatioryhmiä koulutustavoitteiden arvioinnin ja koulumenestyksen suhteen. Valitaan nyt muuttujakeskeinen tutkimustapa samaan ilmiöön. Tutki lineaarisella regressioanalyysillä miten tavoiteorientaatiot ovat yhteydessä koulumenestykseen. Eroaako tulosten tulkinta eri lähestymistapojen välillä? Raportoi tulokset ja tulkinta.
+
+([Tämä](https://www.youtube.com/watch?v=ueNrP5TyZaE))englanninkielinen video on luultavasti hyödyllinen SPSS:n valintojen kertaamiseen - harjoituskerran jälkeen tai tätä ennen.
